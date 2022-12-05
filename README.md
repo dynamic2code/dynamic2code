@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Wakahu a php and python dev
 - 👀 I’m interested in web and mobile application building 
-- 🌱 I’m currently learning Ionic 4
+- 🌱 I’m currently learning Ionic with Angular 
 - 💞️ I’m looking to collaborate on any visionary idea
 - 📫 How to reach me, reach me on my twiter handle or my email josephwakahu12@gmail.com 
 
