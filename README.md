@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [In ddevelopment](In ddevelopment)
 
-- 💬 Ask me about **python, Django, PHP, Laravel**
+- 💬 Ask me about **python, Django, PHP, Laravel, API's and Database**
 
 - 📫 How to reach me **josephwakahu12@gmail.com**
 
