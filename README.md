@@ -1,5 +1,6 @@
-<h1 align="center">Hello there, I'm Joseph</h1>
-<h3 align="center">I am a full-stack software developer</h3>
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">I am a full-stack software developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50px"></h3>
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamic2code&hide=html,css&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=dynamic2code&count_private=true&show_icons=true&theme=dark)
